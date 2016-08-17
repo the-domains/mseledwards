@@ -1,0 +1,28 @@
+name: Sweet Enough?
+favicon: null
+layout_spectrum: 0.5022016440052539
+typography_spectrum: 0.7842021270189434
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.17304438748396933
+  lightness: 0.030818338971585035
+  saturation: 0.5067574144341052
+  rhythmicContrast: 0.6097364299930632
+purpose: []
